@@ -1,6 +1,6 @@
 # Fundamentals of Computational Neuroscience
 
-Julia implementation of the simulations in the book Fundamentals of Computational Neuroscience in the form of Jupyter Notebooks
+Julia implementation of the simulations in the book _Fundamentals of Computational Neuroscience_ in the form of Jupyter Notebooks
 
 ## Requirements
 
