@@ -4,7 +4,7 @@ Julia implementation of the simulations in the book Fundamentals of Computationa
 
 ## Requirements
 
-The notebooks require Julia 1.0, Jupyter and IJulia to run. Follow the instructions in (this website)[https://github.com/JuliaLang/IJulia.jl]
+The notebooks require Julia 1.0, Jupyter and IJulia to run. Follow the instructions in [this website](https://github.com/JuliaLang/IJulia.jl)
 
 ## Running
 
