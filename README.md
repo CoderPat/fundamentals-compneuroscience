@@ -1,10 +1,10 @@
 # Fundamentals of Computational Neuroscience
 
-Julia implementation of the simulations in the book Fundamentals of Computational Neuroscience in the form of Jupyter Notebooks
+Julia implementation of the simulations in the book _Fundamentals of Computational Neuroscience_ in the form of Jupyter Notebooks
 
 ## Requirements
 
-The notebooks require Julia 1.0, Jupyter and IJulia to run. Follow the instructions in (this website)[https://github.com/JuliaLang/IJulia.jl]
+The notebooks require Julia 1.0, Jupyter and IJulia to run. Follow the instructions in [this website](https://github.com/JuliaLang/IJulia.jl)
 
 ## Running
 
