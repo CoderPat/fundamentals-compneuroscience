@@ -18,5 +18,7 @@ and open the respective chapter notebook.
 
 ## Contributing
 
-PRs with contributions are welcome
+PRs with contributions are welcome. Note that there are some chapters that I don't pretend to write simulations for, so starting by those would be much appreciated. These chapter currently are
+
+* _Chapter 3_ 
 
